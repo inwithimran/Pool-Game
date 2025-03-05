@@ -24,11 +24,11 @@ This is an open-source project bringing unsophisticated billiards physics writte
 
 Demos run in all major desktop and mobile browsers and uses WebGL
 
-* [Nine ball ⬀](https://tailuge.github.io/billiards/dist) make a break and share replay link with friends
-* [Three cushion billiards ⬀](https://tailuge.github.io/billiards/dist?ruletype=threecushion) the ultimate test of physics and player (average on both counts)
-* [Snooker ⬀](https://tailuge.github.io/billiards/dist?ruletype=snooker) we await the first 147 submission to the leaderboard.
-* 4-ball [Straight pool ⬀](https://tailuge.github.io/billiards/dist?ruletype=fourteenone). 
-* Inspect physics and tweak constants using [diagrams](https://tailuge.github.io/billiards/dist/diagrams/diagrams.html).
+* [Nine ball ⬀](https://inwithimran.github.io/Pool-Game/dist) make a break and share replay link with friends
+* [Three cushion billiards ⬀](https://inwithimran.github.io/Pool-Game/dist?ruletype=threecushion) the ultimate test of physics and player (average on both counts)
+* [Snooker ⬀](https://inwithimran.github.io/Pool-Game/dist?ruletype=snooker) we await the first 147 submission to the leaderboard.
+* 4-ball [Straight pool ⬀](https://inwithimran.github.io/Pool-Game/dist?ruletype=fourteenone). 
+* Inspect physics and tweak constants using [diagrams](https://inwithimran.github.io/Pool-Game/dist/diagrams/diagrams.html).
 * Try to get on the leaderboard of highest [breaks](https://scoreboard-tailuge.vercel.app/leaderboard.html) hosted on vercel.com
 * Try [two player](https://scoreboard-tailuge.vercel.app/lobby) online lobby using nchan
 
